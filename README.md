@@ -1,2 +1,2 @@
 # rfcbeat
-SAP Rfc beat for ELK stack
+SAP RFC beat for ELK stack
